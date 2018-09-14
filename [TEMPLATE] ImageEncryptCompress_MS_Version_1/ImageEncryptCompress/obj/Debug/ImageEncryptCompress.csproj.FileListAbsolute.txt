@@ -1,0 +1,60 @@
+C:\Users\Dell\Desktop\[ALG'17] Lab8 - [PROJECT] + Priority Queue\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageQuantization.MainForm.resources
+C:\Users\Dell\Desktop\[ALG'17] Lab8 - [PROJECT] + Priority Queue\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.Properties.Resources.resources
+C:\Users\Dell\Desktop\[ALG'17] Lab8 - [PROJECT] + Priority Queue\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.csproj.GenerateResource.Cache
+C:\Users\Dell\Desktop\[ALG'17] Lab8 - [PROJECT] + Priority Queue\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\ImageEncryptCompress.exe
+C:\Users\Dell\Desktop\[ALG'17] Lab8 - [PROJECT] + Priority Queue\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\ImageEncryptCompress.pdb
+C:\Users\Dell\Desktop\[ALG'17] Lab8 - [PROJECT] + Priority Queue\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.exe
+C:\Users\Dell\Desktop\[ALG'17] Lab8 - [PROJECT] + Priority Queue\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.pdb
+D:\scienses\year 3\First semester\New\Algorithm Analysis & Design\Project\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\ImageEncryptCompress.exe
+D:\scienses\year 3\First semester\New\Algorithm Analysis & Design\Project\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\ImageEncryptCompress.pdb
+D:\scienses\year 3\First semester\New\Algorithm Analysis & Design\Project\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageQuantization.MainForm.resources
+D:\scienses\year 3\First semester\New\Algorithm Analysis & Design\Project\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.Properties.Resources.resources
+D:\scienses\year 3\First semester\New\Algorithm Analysis & Design\Project\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.csproj.GenerateResource.Cache
+D:\scienses\year 3\First semester\New\Algorithm Analysis & Design\Project\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.exe
+D:\scienses\year 3\First semester\New\Algorithm Analysis & Design\Project\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.pdb
+C:\Users\Muhammad Shaaban\Downloads\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\ImageEncryptCompress.exe
+C:\Users\Muhammad Shaaban\Downloads\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\ImageEncryptCompress.pdb
+C:\Users\Muhammad Shaaban\Downloads\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.csprojResolveAssemblyReference.cache
+C:\Users\Muhammad Shaaban\Downloads\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageQuantization.MainForm.resources
+C:\Users\Muhammad Shaaban\Downloads\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.Properties.Resources.resources
+C:\Users\Muhammad Shaaban\Downloads\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.csproj.GenerateResource.Cache
+C:\Users\Muhammad Shaaban\Downloads\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad Shaaban\Downloads\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.exe
+C:\Users\Muhammad Shaaban\Downloads\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.pdb
+D:\scienses\year 3\First semester\New\Algorithm Analysis & Design\Project\Mile_Stone_1 Version 1\[TEMPLATE] ImageEncryptCompress_MS_Version_1\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.exe
+D:\scienses\year 3\First semester\New\Algorithm Analysis & Design\Project\Mile_Stone_1 Version 1\[TEMPLATE] ImageEncryptCompress_MS_Version_1\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.pdb
+D:\scienses\year 3\First semester\New\Algorithm Analysis & Design\Project\Mile_Stone_1 Version 1\[TEMPLATE] ImageEncryptCompress_MS_Version_1\ImageEncryptCompress\bin\Debug\ImageEncryptCompress.exe
+D:\scienses\year 3\First semester\New\Algorithm Analysis & Design\Project\Mile_Stone_1 Version 1\[TEMPLATE] ImageEncryptCompress_MS_Version_1\ImageEncryptCompress\bin\Debug\ImageEncryptCompress.pdb
+D:\scienses\year 3\First semester\New\Algorithm Analysis & Design\Project\Mile_Stone_1 Version 1\[TEMPLATE] ImageEncryptCompress_MS_Version_1\ImageEncryptCompress\obj\Debug\ImageQuantization.MainForm.resources
+D:\scienses\year 3\First semester\New\Algorithm Analysis & Design\Project\Mile_Stone_1 Version 1\[TEMPLATE] ImageEncryptCompress_MS_Version_1\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.Properties.Resources.resources
+D:\scienses\year 3\First semester\New\Algorithm Analysis & Design\Project\Mile_Stone_1 Version 1\[TEMPLATE] ImageEncryptCompress_MS_Version_1\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.csproj.GenerateResource.Cache
+D:\scienses\year 3\First semester\New\Algorithm Analysis & Design\Project\Mile_Stone_1 Version 2\[TEMPLATE] ImageEncryptCompress_MS_Version_1\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.exe
+D:\scienses\year 3\First semester\New\Algorithm Analysis & Design\Project\Mile_Stone_1 Version 2\[TEMPLATE] ImageEncryptCompress_MS_Version_1\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.pdb
+D:\scienses\year 3\First semester\New\Algorithm Analysis & Design\Project\Mile_Stone_1 Version 2\[TEMPLATE] ImageEncryptCompress_MS_Version_1\ImageEncryptCompress\bin\Debug\ImageEncryptCompress.exe
+D:\scienses\year 3\First semester\New\Algorithm Analysis & Design\Project\Mile_Stone_1 Version 2\[TEMPLATE] ImageEncryptCompress_MS_Version_1\ImageEncryptCompress\obj\Debug\ImageQuantization.MainForm.resources
+D:\scienses\year 3\First semester\New\Algorithm Analysis & Design\Project\Mile_Stone_1 Version 2\[TEMPLATE] ImageEncryptCompress_MS_Version_1\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.Properties.Resources.resources
+D:\scienses\year 3\First semester\New\Algorithm Analysis & Design\Project\Mile_Stone_1 Version 2\[TEMPLATE] ImageEncryptCompress_MS_Version_1\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.csproj.GenerateResource.Cache
+D:\scienses\year 3\First semester\New\Algorithm Analysis & Design\Project\Mile_Stone_1 Version 2\[TEMPLATE] ImageEncryptCompress_MS_Version_1\ImageEncryptCompress\bin\Debug\ImageEncryptCompress.pdb
+D:\scienses\year 3\First semester\New\Algorithm Analysis & Design\Project\Mile_Stone_1 Version 2\[TEMPLATE] ImageEncryptCompress_MS_Version_1\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.csprojResolveAssemblyReference.cache
+D:\scienses\year 3\First semester\New\Algorithm Analysis & Design\Project\Mile_Stone_1 Final Version\Mile_Stone_1 Final\[TEMPLATE] ImageEncryptCompress_MS_Version_1\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.exe
+D:\scienses\year 3\First semester\New\Algorithm Analysis & Design\Project\Mile_Stone_1 Final Version\Mile_Stone_1 Final\[TEMPLATE] ImageEncryptCompress_MS_Version_1\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.pdb
+D:\scienses\year 3\First semester\New\Algorithm Analysis & Design\Project\Mile_Stone_1 Final Version\Mile_Stone_1 Final\[TEMPLATE] ImageEncryptCompress_MS_Version_1\ImageEncryptCompress\bin\Debug\ImageEncryptCompress.exe
+D:\scienses\year 3\First semester\New\Algorithm Analysis & Design\Project\Mile_Stone_1 Final Version\Mile_Stone_1 Final\[TEMPLATE] ImageEncryptCompress_MS_Version_1\ImageEncryptCompress\bin\Debug\ImageEncryptCompress.pdb
+D:\scienses\year 3\First semester\New\Algorithm Analysis & Design\Project\Mile_Stone_1 Final Version\Mile_Stone_1 Final\[TEMPLATE] ImageEncryptCompress_MS_Version_1\ImageEncryptCompress\obj\Debug\ImageQuantization.MainForm.resources
+D:\scienses\year 3\First semester\New\Algorithm Analysis & Design\Project\Mile_Stone_1 Final Version\Mile_Stone_1 Final\[TEMPLATE] ImageEncryptCompress_MS_Version_1\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.Properties.Resources.resources
+D:\scienses\year 3\First semester\New\Algorithm Analysis & Design\Project\Mile_Stone_1 Final Version\Mile_Stone_1 Final\[TEMPLATE] ImageEncryptCompress_MS_Version_1\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.csproj.GenerateResource.Cache
+D:\scienses\year 3\First semester\New\Algorithm Analysis & Design\Project\Mile_Stone_1 Final Version\Mile_Stone_1 Final\[TEMPLATE] ImageEncryptCompress_MS_Version_1\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Downloads\Milestone2\[TEMPLATE] ImageEncryptCompress_MS_Version_1\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.exe
+C:\Users\lenovo\Downloads\Milestone2\[TEMPLATE] ImageEncryptCompress_MS_Version_1\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.pdb
+C:\Users\lenovo\Downloads\Milestone2\[TEMPLATE] ImageEncryptCompress_MS_Version_1\ImageEncryptCompress\bin\Debug\ImageEncryptCompress.exe
+C:\Users\lenovo\Downloads\Milestone2\[TEMPLATE] ImageEncryptCompress_MS_Version_1\ImageEncryptCompress\obj\Debug\ImageQuantization.MainForm.resources
+C:\Users\lenovo\Downloads\Milestone2\[TEMPLATE] ImageEncryptCompress_MS_Version_1\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.Properties.Resources.resources
+C:\Users\lenovo\Downloads\Milestone2\[TEMPLATE] ImageEncryptCompress_MS_Version_1\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.csproj.GenerateResource.Cache
+C:\Users\lenovo\Downloads\Milestone2\[TEMPLATE] ImageEncryptCompress_MS_Version_1\ImageEncryptCompress\bin\Debug\ImageEncryptCompress.pdb
+D:\scienses\year 3\First semester\New\Algorithm Analysis & Design\Project\Mile_Stone_2 version 1\[TEMPLATE] ImageEncryptCompress_MS_Version_1\ImageEncryptCompress\bin\Debug\ImageEncryptCompress.exe
+D:\scienses\year 3\First semester\New\Algorithm Analysis & Design\Project\Mile_Stone_2 version 1\[TEMPLATE] ImageEncryptCompress_MS_Version_1\ImageEncryptCompress\bin\Debug\ImageEncryptCompress.pdb
+D:\scienses\year 3\First semester\New\Algorithm Analysis & Design\Project\Mile_Stone_2 version 1\[TEMPLATE] ImageEncryptCompress_MS_Version_1\ImageEncryptCompress\obj\Debug\ImageQuantization.MainForm.resources
+D:\scienses\year 3\First semester\New\Algorithm Analysis & Design\Project\Mile_Stone_2 version 1\[TEMPLATE] ImageEncryptCompress_MS_Version_1\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.Properties.Resources.resources
+D:\scienses\year 3\First semester\New\Algorithm Analysis & Design\Project\Mile_Stone_2 version 1\[TEMPLATE] ImageEncryptCompress_MS_Version_1\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.csproj.GenerateResource.Cache
+D:\scienses\year 3\First semester\New\Algorithm Analysis & Design\Project\Mile_Stone_2 version 1\[TEMPLATE] ImageEncryptCompress_MS_Version_1\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.exe
+D:\scienses\year 3\First semester\New\Algorithm Analysis & Design\Project\Mile_Stone_2 version 1\[TEMPLATE] ImageEncryptCompress_MS_Version_1\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.pdb
